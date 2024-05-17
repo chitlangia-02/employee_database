@@ -1,0 +1,122 @@
+[ 
+	{ 
+		"id": 1001, 
+		"imageUrl": "https://images.unsplash.com/photo-1519764622345-23439dd774f7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8fA%3D%3D", 
+		"firstName": "Arslan", 
+		"lastName": "Salim", 
+		"email": "arslansalim@gmail.com", 
+		"contactNumber": "4121091095", 
+		"age": 44, 
+		"dob": "26/08/1979", 
+		"salary": 13579, 
+		"address": "Address1"
+	}, 
+	{ 
+		"id": 1002, 
+		"imageUrl": "https://images.unsplash.com/photo-1485217988980-11786ced9454?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D", 
+		"firstName": "Sanjeevani ", 
+		"lastName": "Agarwal", 
+		"email": "sanjeevaniagarwal@gmail.com", 
+		"contactNumber": "4914696673", 
+		"age": 61, 
+		"dob": "28/06/1962", 
+		"salary": 24680, 
+		"address": "Address2"
+	}, 
+	{ 
+		"id": 1003, 
+		"imageUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHx8fA%3D%3D", 
+		"firstName": "Shreyasi", 
+		"lastName": "Priyadarshini", 
+		"email": "shreyasipriya@gmail.com", 
+		"contactNumber": "4479795571", 
+		"age": 30, 
+		"dob": "06/01/1993", 
+		"salary": 35791, 
+		"address": "Address3"
+	}, 
+	{ 
+		"id": 1004, 
+		"imageUrl": "https://images.unsplash.com/photo-1528892952291-009c663ce843?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8fA%3D%3D", 
+		"firstName": "Nedaur", 
+		"lastName": "Rahman", 
+		"email": "neadaurahman@gmail.com", 
+		"contactNumber": "4443995334", 
+		"age": 39, 
+		"dob": "06/09/1984", 
+		"salary": 46802, 
+		"address": "Address4"
+	}, 
+	{ 
+		"id": 1005, 
+		"imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fHw%3D", 
+		"firstName": "Ayush", 
+		"lastName": "Bachan", 
+		"email": "ayushbachan@gmail.com", 
+		"contactNumber": "4505692843", 
+		"age": 31, 
+		"dob": "14/03/1993", 
+		"salary": 57913, 
+		"address": "Address5"
+	}, 
+	{ 
+		"id": 1006, 
+		"imageUrl": "https://images.unsplash.com/photo-1520466809213-7b9a56adcd45?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fHw%3D", 
+		"firstName": "Swati", 
+		"lastName": "Ajmera", 
+		"email": "swatiajmera@gmail.com", 
+		"contactNumber": "4746199430", 
+		"age": 57, 
+		"dob": "24/07/1966", 
+		"salary": 68024, 
+		"address": "Address6"
+	}, 
+	{ 
+		"id": 1007, 
+		"imageUrl": "https://images.unsplash.com/photo-1589156280159-27698a70f29e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTd8fHxlbnwwfHx8fHw%3D", 
+		"firstName": "Debismita", 
+		"lastName": "Dey", 
+		"email": "debodey@gmail.com", 
+		"contactNumber": "4859095720", 
+		"age": 53, 
+		"dob": "26/12/1970", 
+		"salary": 75319, 
+		"address": "Address7"
+	}, 
+	{ 
+		"id": 1008, 
+		"imageUrl": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjJ8fHxlbnwwfHx8fHw%3D", 
+		"firstName": "Sitanshu", 
+		"lastName": "Ranjan", 
+		"email": "tripathysitanshu@gmail.com", 
+		"contactNumber": "4379190775", 
+		"age": 37, 
+		"dob": "24/06/1986", 
+		"salary": 86420, 
+		"address": "Address8"
+	}, 
+	{ 
+		"id": 1009, 
+		"imageUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjV8fHxlbnwwfHx8fHw%3D", 
+		"firstName": "Aastha", 
+		"lastName": "Chitlangia", 
+		"email": "aasthachitlangia@gmail.com", 
+		"contactNumber": "4394091994", 
+		"age": 67, 
+		"dob": "17/08/1956", 
+		"salary": 9, 
+		"address": "Address9"
+	}, 
+	{ 
+		"id": 1010, 
+		"imageUrl": "https://images.unsplash.com/photo-1494708001911-679f5d15a946?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mjh8fHxlbnwwfHx8fHw%3D", 
+		"firstName": "Alok", 
+		"lastName": "Kumar", 
+		"email": "alokumar@gmail.com", 
+		"contactNumber": "4622392580", 
+		"age": 43, 
+		"dob": "21/01/1981", 
+		"salary": 10987, 
+		"address": "Address10"
+	} 
+]
